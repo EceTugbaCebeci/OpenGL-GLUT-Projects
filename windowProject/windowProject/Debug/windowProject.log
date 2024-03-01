@@ -1,0 +1,3 @@
+﻿  windowProject.cpp
+C:\Users\ŞÜKRÜ\source\repos\windowProject\windowProject\windowProject.cpp(697,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  windowProject.vcxproj -> C:\Users\ŞÜKRÜ\source\repos\windowProject\Debug\windowProject.exe

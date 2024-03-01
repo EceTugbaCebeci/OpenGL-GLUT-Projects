@@ -1,0 +1,3 @@
+﻿  insectProject.cpp
+C:\Users\ŞÜKRÜ\source\repos\InsectProject\InsectProject\insectProject.cpp(699,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  InsectProject.vcxproj -> C:\Users\ŞÜKRÜ\source\repos\InsectProject\Debug\insectProject.exe
